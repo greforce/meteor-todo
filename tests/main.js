@@ -1,5 +1,4 @@
 import assert from "assert";
-// import { assert } from 'meteor/practicalmeteor:chai';
 
 import '../imports/api/tasks.tests.js';
 
